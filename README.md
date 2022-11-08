@@ -52,6 +52,7 @@ You can download and install a PowerShell package for any of the following platf
 | Arch Linux               |                         |                               | [Instructions][in-archlinux]  |
 | Kali Linux               | [.deb][rl-ubuntu16]     | [.deb][pv-deb]           | [Instructions][in-kali]       |
 | Many Linux distributions | [Snapcraft][rl-snap]    | [Snapcraft][pv-snap]          |                               |
+| Raspberry Pi      | [Pi-Apps](https://github.com/Botspot/pi-apps)   | | [Pi-Apps Download](https://pi-apps.io/install.html)|
 
 You can also download the PowerShell binary archives for Windows, macOS and Linux.
 
